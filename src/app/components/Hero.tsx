@@ -1,4 +1,4 @@
-import { lstat } from 'fs'
+
 import React from 'react'
 
 const Hero = () => {
